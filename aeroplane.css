@@ -106,13 +106,13 @@ body
 
 @media only screen and (max-width: 670px) {
     .box {
-        top: 100px;
+        top: 500px;
         left: 10vw;
-      width: 30vw;
+        width: 30vw;
         height:30vw; }
     .plane img{
         height: 15vw;
-    width: auto} 
+        width: auto} 
     .cloud img {
         height: 5vw;
         width: auto;
@@ -121,11 +121,11 @@ body
         .box {
             top: 40px;
             left: 10vw;
-          width: 30vw;
+            width: 30vw;
             height:30vw; }
         .plane img{
             height: 15vw;
-        width: auto} 
+            width: auto} 
         .cloud img {
             height: 5vw;
             width: auto;
