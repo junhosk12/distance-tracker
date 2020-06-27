@@ -51,6 +51,9 @@ p {
   .form--ui {
     top: 20%;
   }
+  .submit--form {
+    margin-top: 5px;
+  }
   #tagline{
     font-size:24px; } }
     @media only screen and (max-width: 780px) {
