@@ -24,7 +24,7 @@ p {
   position: absolute;
   top: 15%;
   left: 50%;
-  transform: translate(-50%, -25%);
+  transform: translate(-50%, -40%);
   color: whitesmoke;
   z-index: 2;
 
@@ -49,7 +49,7 @@ p {
 }
 @media only screen and (max-width: 670px) {
   .form--ui {
-    top: 22%;
+    top: 30%;
   }
   .submit--form {
     margin-top: 10px;
