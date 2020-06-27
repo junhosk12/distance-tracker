@@ -30,8 +30,9 @@ p {
 
 }
 .form--ui p {
-  font-size: 17px;
-  max-width: 1000px;
+  font-size: 18px;
+  width: 850px;
+  max-width: 80vw;
 }
 .depart--form input {
   padding: 2px;
